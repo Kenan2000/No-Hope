@@ -1,11 +1,11 @@
 [
   {
     "type": "MOD_INFO",
-    "ident": "no_hope",
+    "id": "no_hope",
     "name": "No Hope",
     "authors": [ "Night_Pryanik" ],
     "maintainers": [ "Night_Pryanik" ],
-    "description": "Harder, harsher Cataclysm.  See extended description in README.md.",
+    "description": "Harder, harsher Cataclysm.",
     "category": "content",
     "dependencies": [ "dda" ],
     "version": "2.7"
